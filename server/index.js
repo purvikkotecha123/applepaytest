@@ -144,7 +144,7 @@ app.post("/orders", async (req, res) => {
           value: "9.99",
         },
         payee: {
-          merchant_id: "2V9L63AM2BYKC"
+          merchant_id: "3MY74E8NYFV7Q"
         }
       },
     ],
